@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# MIT License
+# Copyright (c) 2025 Bentley DeVilling
+# See LICENSE-CODE for full text
 """
 Echo Chamber Zero Simulation
 A Phase-Transition Model for Synthetic Epistemic Drift
@@ -7,7 +10,7 @@ This script numerically validates percolation threshold behavior for synthetic e
 using configuration model graphs and computing phase transition metrics.
 
 Author: Course Correct Labs
-License: CC-BY-SA 4.0
+License: MIT (see LICENSE-CODE)
 """
 
 import numpy as np

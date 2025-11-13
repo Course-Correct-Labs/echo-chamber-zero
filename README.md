@@ -1,6 +1,6 @@
 # Echo Chamber Zero
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Course-Correct-Labs/echo-chamber-zero/blob/main/Echo_Chamber_Zero_Colab.ipynb)
 
@@ -89,7 +89,8 @@ where $P_i$ is the fraction of nodes in component $i$. Measures network fragment
 ```
 echo-chamber-zero/
 ├── README.md                              # This file
-├── LICENSE                                # CC-BY-SA 4.0
+├── LICENSE                                # CC-BY 4.0 (text/figures/data)
+├── LICENSE-CODE                           # MIT License (source code)
 ├── requirements.txt                       # Python dependencies
 ├── simulate_percolation.py                # Main simulation script
 ├── Echo_Chamber_Zero_Simulation.ipynb     # Full Jupyter notebook
@@ -237,22 +238,20 @@ If you use this simulation in your research, please cite:
 
 **Paper:** DeVilling, B. (2025). *Echo Chamber Zero: A Phase-Transition Model for Synthetic Epistemic Drift.* Course Correct Labs / arXiv preprint TBD.
 
-**License:** CC-BY-SA 4.0
 **© Course Correct Labs 2025**
 
 ---
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+This project uses dual licensing:
 
-You are free to:
-- **Share** — copy and redistribute the material
-- **Adapt** — remix, transform, and build upon the material
+- **Text, figures, and data:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+- **Source code:** MIT License (see LICENSE-CODE)
 
-Under the following terms:
-- **Attribution** — You must give appropriate credit
-- **ShareAlike** — You must distribute your contributions under the same license
+You are free to share and adapt this material with attribution.
+
+**© 2025 Course Correct Labs**
 
 ## Contact
 
